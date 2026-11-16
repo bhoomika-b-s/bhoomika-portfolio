@@ -485,6 +485,17 @@ export default function Home() {
             </p>
 
             <div className="contact-item">
+              <span>LinkedIn</span>
+              <a
+                href="https://www.linkedin.com/in/bhoomika-b-s/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                linkedin.com/bhoomika-b-s ↗
+              </a>
+            </div>
+
+            <div className="contact-item">
               <span>GITHUB</span>
               <a
                 href="https://github.com/bhoomika-b-s"
