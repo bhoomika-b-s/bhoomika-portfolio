@@ -126,6 +126,13 @@ export default function Home() {
 
           <div className="social-links">
             <a
+  href="https://www.linkedin.com/in/bhoomika-b-s/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  LinkedIn
+</a>
+            <a
               href="https://github.com/bhoomika-b-s"
               target="_blank"
               rel="noopener noreferrer"
